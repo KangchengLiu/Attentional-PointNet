@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python adapted by Kangcheng Liu
 import math
 
 import torch
